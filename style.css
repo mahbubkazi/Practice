@@ -1,4 +1,28 @@
 body{
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Raleway', sans-serif;
     margin: auto;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+.gray-color{
+    color: gray;
+}
+.olive-color{
+    color: olive;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    text-align: justify;
+}
+.half-width img{
+    width: 80%;
+    padding-top: 2%;
 }
